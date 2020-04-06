@@ -74,7 +74,4 @@ std::string part_B(std::string file_name)
   }
   return good_code;
 
-
-
-
 }
